@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @clubalub
-- 👀 I’m interested in 3d Printing, Microcontrollers and Automation 
-- 🌱 I’m currently learning Python and CAD Modelling
-- 📫 How to reach me: 
-- Discord: @clubalub#2313
-- Email: clubalub@hotmail.co.uk
+Clubalub / Archie Minard
+Automation, Web development and IoT
+Specifying in python
+Email: clubalub@hotmail.co.uk

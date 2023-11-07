@@ -1,4 +1,3 @@
-Clubalub / Archie Minard
-Automation, Web development and IoT
-Specifying in python
-Email: clubalub@hotmail.co.uk
+Clubalub
+Electronics tinkerer, aiming for support technician work.
+More projects to be added soon.
